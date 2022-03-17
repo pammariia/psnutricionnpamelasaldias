@@ -405,6 +405,10 @@ p {
 #projects .project-item:hover .project-img img {
 	transform: scale(1.1);
 }
+/*--------------SECTION 4------------------*/
+.btn-s{
+	margin-bottom: 80px;
+}
 /*--------------SECTION ABOUT (OTRAS PAGES)------------------*/
 #about .about {
 	display: flex;
