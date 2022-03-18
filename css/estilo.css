@@ -67,6 +67,8 @@ p {
 #header {
 	position: fixed;
 	z-index: 1000;
+	left: 0;
+	top: 0;
 	width: 100vw;
 	height: auto;
 }
@@ -88,6 +90,8 @@ p {
 	list-style: none;
 	position: absolute;
 	background-color: rgb(31, 30, 30);
+	width: 100vw;
+	height: 100vh;
 	left: 100%;
 	top: 0;
 	display: flex;
@@ -104,6 +108,7 @@ p {
 #header .nav-list ul a {
 	font-size: 2.5rem;
 	font-weight: 500;
+	
 	text-decoration: none;
 	color: white;
 	text-transform: uppercase;
