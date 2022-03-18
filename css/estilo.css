@@ -214,9 +214,7 @@ p {
 	padding: 0 50px;
 	justify-content: flex-start;
 }
-#hero .herotitulo{
-	margin-top: 100px;
-}
+
 #hero h2 {
 	display: block;
 	width: fit-content;
@@ -510,6 +508,7 @@ p {
     bottom: 27px;
     border-radius: 50%;
     text-align: center;
+	z-index: 2000;
   }
   .btn-whatsapp i {
     color: #fff;
